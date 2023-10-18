@@ -10,19 +10,19 @@ OrgCloud Owner - admin11467
 
 OrgCloudホームページ
 
-・<link>
+・近日公開...
 
 Twitter
 
-・<link>
+・近日公開...
 
 DiscordPortal
 
-・<link>
+・近日公開...
 
 Labsに加入して、OrgCloudの開発にぜひ協力してください！
 
-・<link>
+・近日公開...
 
 # 連絡先
 
