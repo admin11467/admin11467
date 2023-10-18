@@ -24,14 +24,6 @@ Labsに加入して、OrgCloudの開発にぜひ協力してください！
 
 ・<link>
 
-サポートページ
-
-・https://support.orgcloud.org/
-
-規約ページ
-
-・https://policies.orgcloud.org/
-
 # 連絡先
 
 discord
