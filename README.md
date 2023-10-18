@@ -38,6 +38,6 @@ OrgCloudサポート
 
 ・support@orgcloud.org
 
-![](https://orgcloud.org/wp-content/uploads/2023/10/5-dh6MyktBxh.png)
+![](https://orgcloud.org/wp-content/uploads/2023/10/3-dh6MyktBxh.png)
 
 ...╭( ･ㅂ･)و ̑̑ ｸﾞｯ
