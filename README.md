@@ -1,16 +1,51 @@
-### Hi there 👋
+# はじめに
 
-<!--
-**admin11467/admin11467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OrgCloud Owner - admin11467
 
-Here are some ideas to get you started:
+自分のプロフィールをご覧いただきありがとうございます！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+自分はOrgCloudというクラウドサービスを運営しています、詳細は後で記載するホームページを是非見てみてください
+
+# OrgCloud
+
+OrgCloudホームページ
+
+・https://orgcloud.org/
+
+Twitter
+
+・<link>
+
+DiscordPortal
+
+・https://discord.com/invite/bRbFJ3tAuq
+
+Labsに加入して、OrgCloudの開発にぜひ協力してください！
+
+・<link>
+
+サポートページ
+
+・https://support.orgcloud.org/
+
+規約ページ
+
+・https://policies.orgcloud.org/
+
+# 連絡先
+
+discord
+
+・admin11467
+
+Email
+
+・uenohikaru.orgcloud@gmail.com
+
+OrgCloudサポート
+
+・support@orgcloud.org
+
+![](https://orgcloud.org/wp-content/uploads/2023/10/5-dh6MyktBxh.png)
+
+...╭( ･ㅂ･)و ̑̑ ｸﾞｯ
