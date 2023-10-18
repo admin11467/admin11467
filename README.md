@@ -10,7 +10,7 @@ OrgCloud Owner - admin11467
 
 OrgCloudホームページ
 
-・https://orgcloud.org/
+・<link>
 
 Twitter
 
@@ -18,7 +18,7 @@ Twitter
 
 DiscordPortal
 
-・https://discord.com/invite/bRbFJ3tAuq
+・<link>
 
 Labsに加入して、OrgCloudの開発にぜひ協力してください！
 
