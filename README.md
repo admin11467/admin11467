@@ -32,7 +32,7 @@ discord
 
 Email
 
-・uenohikaru.orgcloud@gmail.com
+・connect@admin11467.net
 
 OrgCloudサポート
 
