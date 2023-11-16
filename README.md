@@ -1,6 +1,6 @@
 # はじめに
 
-OrgCloud Owner - admin11467
+OrgCloudDevTeams - admin11467
 
 自分のプロフィールをご覧いただきありがとうございます！
 
@@ -24,13 +24,11 @@ Labsに加入して、OrgCloudの開発にぜひ協力してください！
 
 ・近日公開...
 
-# 連絡先
+# 連絡先-個人
 
-discord
+DISCORD | admin11467
 
-・admin11467
-
-Email
+GMAIL | uenohikaru.orgcloud@gmail.com
 
 EMAIL | connect@admin11467.net
 
@@ -40,7 +38,15 @@ NOC/Network | noc@admin11467.net
 
 SALES | sales@admin11467.net
 
+※上記のアドレスはすべて「uenohikaru.orgcloud@gmail.com」が返信します、適切な内容で対応することができるよう、用途に合わせたアドレスに送信してください
+
+# 連絡先-OrgCloud
+
 OORGCLOUDSUPPORT | support@orgcloud.org
+
+ORGCLOUDFEEDBACK | feedback@orgcloud.org
+
+ORGCLOUDTRUSTTEAMS | trust@orgcloud.org
 
 ![](https://orgcloud.org/wp-content/uploads/2023/10/3-dh6MyktBxh.png)
 
