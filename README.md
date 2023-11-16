@@ -32,11 +32,15 @@ discord
 
 Email
 
-・connect@admin11467.net
+EMAIL | connect@admin11467.net
 
-OrgCloudサポート
+SUPPORT | support@admin11467.net
 
-・support@orgcloud.org
+NOC/Network | noc@admin11467.net
+
+SALES | sales@admin11467.net
+
+OORGCLOUDSUPPORT | support@orgcloud.org
 
 ![](https://orgcloud.org/wp-content/uploads/2023/10/3-dh6MyktBxh.png)
 
