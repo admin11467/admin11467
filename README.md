@@ -28,7 +28,7 @@ Labsに加入して、OrgCloudの開発にぜひ協力してください！
 
 DISCORD | admin11467
 
-GMAIL | uenohikaru.orgcloud@gmail.com
+EMAIL | admin11467@mail.orgcloud.org
 
 EMAIL | connect@admin11467.net
 
@@ -37,8 +37,6 @@ SUPPORT | support@admin11467.net
 NOC/Network | noc@admin11467.net
 
 SALES | sales@admin11467.net
-
-※上記のアドレスはすべて「uenohikaru.orgcloud@gmail.com」が返信します、適切な内容で対応することができるよう、用途に合わせたアドレスに送信してください
 
 # 連絡先-OrgCloud
 
