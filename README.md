@@ -2,7 +2,7 @@
 
 DISCORD | admin11467
 
-EMAIL | connect@admin11467.net
+EMAIL | contact@admin11467.net
 
 SUPPORT | support@admin11467.net
 
